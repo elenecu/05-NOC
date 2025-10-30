@@ -12,7 +12,7 @@
     "module": "nodenext",
     "target": "esnext",
     "lib": ["esnext"],
-    "types": ["node"],
+    "types": ["node", "jest"],
     "moduleResolution": "nodenext",
 
     // Other Outputs

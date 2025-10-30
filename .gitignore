@@ -4,3 +4,14 @@ node_modules/
 dist/
 
 # Logs
+logs/
+
+# .env
+.env
+
+# mongo db
+mongo/
+
+# postgres db
+postgres/
+/src/generated/prisma
