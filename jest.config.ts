@@ -135,7 +135,7 @@ const config: Config = {
 
   // The paths to modules that run some code to configure or set up the testing environment before each test
   setupFiles: [
-    "<rootDir>/setupTests.ts"
+    "<rootDir>/setupTest.ts"
   ],
 
   // A list of paths to modules that run some code to configure or set up the testing framework before each test
@@ -148,7 +148,7 @@ const config: Config = {
   // snapshotSerializers: [],
 
   // The test environment that will be used for testing
-  testEnvironment: "test-environment-node",
+  testEnvironment: "node",
 
   // Options that will be passed to the testEnvironment
   // testEnvironmentOptions: {},
